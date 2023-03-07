@@ -58,6 +58,7 @@ export default function Profile() {
                     </a>
                 </div>
             </div>
+            {/**  Baka dito lng tong gagawim natin hahaha.*/}
             <div className='profile-picture'>
                 <div className='profile-picture-background'>
 
